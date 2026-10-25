@@ -51,7 +51,7 @@ If folder selection is unavailable, try **Compatibility mode** or use **Add file
 
 ## Use the website at:
 ```text
-https://jampanirohtih.github.io/music-player/
+https://jampanirohith.github.io/music-player/
 ```
 
 ## Privacy and Permissions
